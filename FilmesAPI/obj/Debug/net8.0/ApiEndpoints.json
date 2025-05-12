@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "MovieController.Controllers.MovieController",
+    "Method": "AddMove",
+    "RelativePath": "Movie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_movie",
+        "Type": "FilmesAPI.Models.Movie",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
