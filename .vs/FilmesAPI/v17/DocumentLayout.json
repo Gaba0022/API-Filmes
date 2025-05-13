@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "FilmesAPI\\Models\\Movie.cs",
               "ToolTip": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Models\\Movie.cs",
               "RelativeToolTip": "FilmesAPI\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T21:46:06.424Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Controllers\\MovieController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T21:25:37.59Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "FilmesAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T19:41:36.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T19:41:36.681Z"
             },
             {
               "$type": "Document",

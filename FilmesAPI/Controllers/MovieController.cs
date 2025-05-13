@@ -16,6 +16,7 @@ public class MovieController : ControllerBase
     {
         movies.Add(_movie);
         Console.WriteLine(_movie.Title);
+        Console.WriteLine(_movie.Genre);
         Console.WriteLine(_movie.Duration);
     }
 }
