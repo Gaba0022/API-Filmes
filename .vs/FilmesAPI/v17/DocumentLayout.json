@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\git\\Alura\\FilmesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Models\\Movie.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MovieController.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Controllers\\MovieController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T21:25:37.59Z",
               "EditorCaption": ""

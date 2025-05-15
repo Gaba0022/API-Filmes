@@ -13,25 +13,31 @@ public class MovieController : ControllerBase
     private static int id = 0;
 
     [HttpPost]
-    public void AddMove([FromBody] Movie _movie)
+    public IActionResult AddMove([FromBody] Movie _movie)
     {
         _movie.Id = id++;
         movies.Add(_movie);
-        Console.WriteLine(_movie.Title);
-        Console.WriteLine(_movie.Genre);
-        Console.WriteLine(_movie.Duration);
+
+        return CreatedAtAction(nameof(RecoverMovieId), 
+            new {id = _movie.Id}, 
+            _movie);
+
     }
 
     [HttpGet]
-    public IEnumerable<Movie> RecoverMovie() 
+    public IEnumerable<Movie> RecoverMovie([FromQuery] int skip = 0, 
+        [FromQuery] int take = 1000) 
     {
-        return movies;
+        return movies.Skip(skip).Take(take);
     }
 
     [HttpGet("{id}")]
-    public Movie? RecoverMovieId(int id)
+    public IActionResult RecoverMovieId(int id)
     {
-        return movies.FirstOrDefault(_movie => _movie.Id == id);
+        var movie = movies.FirstOrDefault(_movie => _movie.Id == id);
+        if(movie == null) 
+            return NotFound();
+        return Ok(movie);
     }
 
 
