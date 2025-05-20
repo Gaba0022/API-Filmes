@@ -8,9 +8,11 @@ var _connectionString = builder.Configuration.GetConnectionString("MovieConnecti
 builder.Services.AddDbContext<MovieContext>(opts => 
     opts.UseMySql(_connectionString, ServerVersion.AutoDetect(_connectionString)));
 
-// Add services to the container.
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-builder.Services.AddControllers();
+
+// Add services to the container.
+builder.Services.AddControllers().AddNewtonsoftJson();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
