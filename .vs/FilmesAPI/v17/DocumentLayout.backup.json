@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\git\\Alura\\FilmesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\profile\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\profile\\movieprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\filmesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\filmesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\migrations\\20250516185507_createmovietable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\data\\dtos\\readmoviedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\dtos\\readmoviedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81628BD6-B571-47C7-A667-48BFC234CC98}|FilmesAPI\\FilmesAPI.csproj|d:\\git\\alura\\filmesapi\\filmesapi\\data\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FilmesAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FilmesAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T00:22:22.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FilmesAPI",
+              "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "RelativeDocumentMoniker": "FilmesAPI\\FilmesAPI.csproj",
+              "ToolTip": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "RelativeToolTip": "FilmesAPI\\FilmesAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T00:05:51.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ReadMovieDTOs.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Data\\DTOs\\ReadMovieDTOs.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Data\\DTOs\\ReadMovieDTOs.cs",
@@ -58,12 +92,11 @@
               "RelativeToolTip": "FilmesAPI\\Data\\DTOs\\ReadMovieDTOs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T22:08:26.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T22:08:26.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "20250516185507_CreateMovieTable.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Migrations\\20250516185507_CreateMovieTable.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Migrations\\20250516185507_CreateMovieTable.cs",
@@ -71,12 +104,11 @@
               "RelativeToolTip": "FilmesAPI\\Migrations\\20250516185507_CreateMovieTable.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:08:43.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T21:08:43.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CreateMovieDTOs.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Data\\DTOs\\CreateMovieDTOs.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Data\\DTOs\\CreateMovieDTOs.cs",
@@ -84,12 +116,11 @@
               "RelativeToolTip": "FilmesAPI\\Data\\DTOs\\CreateMovieDTOs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T19:40:46.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T19:40:46.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MovieContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Migrations\\MovieContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Migrations\\MovieContextModelSnapshot.cs",
@@ -97,12 +128,11 @@
               "RelativeToolTip": "FilmesAPI\\Migrations\\MovieContextModelSnapshot.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T19:19:18.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T19:19:18.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MovieContext.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Data\\MovieContext.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Data\\MovieContext.cs",
@@ -110,12 +140,11 @@
               "RelativeToolTip": "FilmesAPI\\Data\\MovieContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:09:30.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T01:09:30.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Models\\Movie.cs",
@@ -123,18 +152,17 @@
               "RelativeToolTip": "FilmesAPI\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T21:46:06.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T21:46:06.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MovieController.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Controllers\\MovieController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAqwFcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T21:25:37.59Z",
               "EditorCaption": ""
@@ -154,13 +182,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Program.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Program.cs",
               "ToolTip": "D:\\git\\Alura\\FilmesAPI\\FilmesAPI\\Program.cs",
               "RelativeToolTip": "FilmesAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T19:33:43.014Z",
               "EditorCaption": ""

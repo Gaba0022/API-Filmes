@@ -119,3 +119,5 @@ D:\git\Alura\FilmesAPI\FilmesAPI\obj\Debug\net8.0\refint\FilmesAPI.dll
 D:\git\Alura\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.pdb
 D:\git\Alura\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.genruntimeconfig.cache
 D:\git\Alura\FilmesAPI\FilmesAPI\obj\Debug\net8.0\ref\FilmesAPI.dll
+D:\git\Alura\FilmesAPI\FilmesAPI\bin\Debug\net8.0\FilmesAPI.xml
+D:\git\Alura\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.xml

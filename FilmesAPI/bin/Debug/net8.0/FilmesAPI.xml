@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FilmesAPI</name>
+    </assembly>
+    <members>
+        <member name="M:MovieController.Controllers.MovieController.AddMove(FilmesAPI.Data.DTOs.CreateMovieDTOs)">
+            <summary>
+            Adiciona um filme ao banco de dados
+            </summary>
+            <param name="createMovieDTOs">Objeto com os campos necessários para criação de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="201">Caso inserção seja feita com sucesso</response>
+        </member>
+        <member name="M:MovieController.Controllers.MovieController.RecoverMovie(System.Int32,System.Int32)">
+            <summary>
+            Recupera uma lista de filmes com paginação
+            </summary>
+            <param name="skip">Número de filmes a pular</param>
+            <param name="take">Número máximo de filmes a retornar</param>
+            <returns>Lista de filmes</returns>
+            <response code="200">Filmes recuperados com sucesso</response>
+        </member>
+        <member name="M:MovieController.Controllers.MovieController.RecoverMovieId(System.Int32)">
+            <summary>
+            Recupera um filme pelo seu ID
+            </summary>
+            <param name="id">ID do filme a ser recuperado</param>
+            <returns>IActionResult</returns>
+            <response code="200">Filme encontrado</response>
+            <response code="404">Filme não encontrado</response>
+        </member>
+        <member name="M:MovieController.Controllers.MovieController.MovieUpdate(System.Int32,FilmesAPI.Data.DTOs.UpdateMovieDTOs)">
+            <summary>
+            Atualiza um filme completamente
+            </summary>
+            <param name="id">ID do filme a ser atualizado</param>
+            <param name="updateMovieDTOs">Objeto com os novos dados do filme</param>
+            <returns>IActionResult</returns>
+            <response code="204">Atualização feita com sucesso</response>
+            <response code="404">Filme não encontrado</response>
+        </member>
+        <member name="M:MovieController.Controllers.MovieController.MoviePath(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{FilmesAPI.Data.DTOs.UpdateMovieDTOs})">
+            <summary>
+            Atualiza parcialmente um filme
+            </summary>
+            <param name="id">ID do filme a ser atualizado</param>
+            <param name="patch">Operações de modificação no filme</param>
+            <returns>IActionResult</returns>
+            <response code="204">Atualização parcial feita com sucesso</response>
+            <response code="400">Erro na validação dos dados</response>
+            <response code="404">Filme não encontrado</response>
+        </member>
+        <member name="M:MovieController.Controllers.MovieController.MovieDelete(System.Int32)">
+            <summary>
+            Remove um filme do banco de dados
+            </summary>
+            <param name="id">ID do filme a ser removido</param>
+            <returns>IActionResult</returns>
+            <response code="204">Remoção feita com sucesso</response>
+            <response code="404">Filme não encontrado</response>
+        </member>
+        <member name="T:FilmesAPI.Migrations.CreateMovieTable">
+            <inheritdoc />
+        </member>
+        <member name="M:FilmesAPI.Migrations.CreateMovieTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FilmesAPI.Migrations.CreateMovieTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FilmesAPI.Migrations.CreateMovieTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
